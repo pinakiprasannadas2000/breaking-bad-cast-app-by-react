@@ -1,3 +1,8 @@
+Are you a die-hard fan of breaking bad like me ?
+If yes, check out the below link,
+
+Link for the app: https://breaking-bad-cast-app-by-pinu.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
